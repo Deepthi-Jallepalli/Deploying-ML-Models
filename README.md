@@ -1,1 +1,1 @@
-Levearging machine learning models deployment and API development
+Leveraging machine learning models deployment and API development
